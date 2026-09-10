@@ -8,6 +8,14 @@ The project analyzes **10,000+ sales records** and transforms raw sales data int
 
 ---
 
+## 📊 Live Tableau Dashboard
+
+View the interactive dashboard on Tableau Public:
+
+🔗 [View Sales Analysis Dashboard](https://public.tableau.com/app/profile/eshan.kumar.patel/viz/SalesAnalysisDashboard_17890251153340/salesanalysisdashboard)
+
+---
+
 ## 🛠️ Technologies Used
 
 - **MySQL** – Data storage, cleaning and SQL analysis
