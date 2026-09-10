@@ -16,6 +16,12 @@ View the interactive dashboard on Tableau Public:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Sales Analysis Dashboard](dashboard_screenshot.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 - **MySQL** – Data storage, cleaning and SQL analysis
